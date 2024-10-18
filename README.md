@@ -1,2 +1,2 @@
-# WebsiteProject
-This project is to advance our skills to web development ofr the sake of making our resume look good
+# CS_Website_Project
+This project involves creating a website for the CSU Stanislaus Computer Science club. 
